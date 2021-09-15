@@ -1,0 +1,26 @@
+{
+  "name": "node_cs_api_lpbd",
+  "version": "1.0.0",
+  "description": "Crud com node e vue para LPBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueZPastre/node_cs_api_lpbd.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "vue",
+    "pg",
+    "express"
+  ],
+  "author": "Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueZPastre/node_cs_api_lpbd/issues"
+  },
+  "homepage": "https://github.com/HenriqueZPastre/node_cs_api_lpbd#readme"
+}
